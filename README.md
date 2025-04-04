@@ -5,4 +5,4 @@ Stworzyć inteligentny system testowy, który:
 - Wykonuje testy i raportuje wyniki (np. do JIRA).
 - Minimalizuje ręczną pracę dzięki AI.
 
-# AItomatyzacja-test-w-UI
+AItomatyzacja-test-w-UI
